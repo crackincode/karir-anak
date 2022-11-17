@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>Coba update kodingan</code> to test HMR
+      <code>Coba update kodingan</code> di update
     </p>
   </div>
 
